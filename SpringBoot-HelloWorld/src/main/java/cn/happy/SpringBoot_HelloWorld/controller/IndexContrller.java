@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class IndexContrller {
-
+//wertyjukidfghj
 	
 	@RequestMapping("/index")
 	public String index(){
